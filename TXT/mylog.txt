@@ -6,5 +6,7 @@ ZCZC W00 60 L04 Github Page
 ZCZC W00 60 L02 Zoom Related 
 ZCZC W01 100 L02 Zoom Related 
 ZCZC W01 200 L11 Finished  Assignment week  #01
+ZCZC w02 60  L12 Finished Assignment week #02 ( generate key, export key, push to github )
+
 
 
