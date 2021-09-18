@@ -24,5 +24,6 @@ I found this very straightforward and comprehensive. Very informative !
 This link gives example on how to use the command which I found very useful !
 
 **Week 02**
-
+1. [Introduction to Cyber Security](https://www.youtube.com/watch?v=z5nc9MDbvkw)<br>
+I love how this video is so informative and supported with nice graphics
 
