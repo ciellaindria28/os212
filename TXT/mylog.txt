@@ -6,7 +6,19 @@ ZCZC W00 60 L04 Github Page
 ZCZC W00 60 L02 Zoom Related 
 ZCZC W01 100 L02 Zoom Related 
 ZCZC W01 200 L11 Finished  Assignment week  #01
-ZCZC w02 60  L12 Finished Assignment week #02 ( generate key, export key, push to github )
+ZCZC W02 60 L11 Assignments #01
+ZCZC W02 60 L12 Assignments #02
+ZCZC W02 60 L13 Assignments #03
+ZCZC W02 20 L14 Assignments #04
+ZCZC W02 15 L15 Assignments #05
+ZCZC W02 5 L16 Assignments #06
+ZCZC W02 10 L17 Assignments #07
+ZCZC W02 10 L18 Assignments #08
+ZCZC W02 10 L19 Assignments #09
+ZCZC W02 30 L20 Assignments #10
+ZCZC W02 15 L00 Assignments #11
+ZCZC W02 10 L00 Assignments #12
+ZCZC W02 10 L00 Assignments #13
 ZCZC w02 60 L27 GnuPG, key-gen, encrypt/decrypt.
 ZCZC w02 30 L32 YouTube: Introduction to cybersecurity 
 ZCZC w02 20 L64 Helping OS related problem to a friend.
