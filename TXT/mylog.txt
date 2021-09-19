@@ -19,9 +19,11 @@ ZCZC W02 30 L20 Assignments #10
 ZCZC W02 15 L00 Assignments #11
 ZCZC W02 10 L00 Assignments #12
 ZCZC W02 10 L00 Assignments #13
-ZCZC w02 60 L27 GnuPG, key-gen, encrypt/decrypt.
-ZCZC w02 30 L32 YouTube: Introduction to cybersecurity 
-ZCZC w02 20 L64 Helping OS related problem to a friend.
+ZCZC W02 60 L27 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02 30 L32 YouTube: Introduction to cybersecurity 
+ZCZC W02 20 L64 Helping OS related problem to a friend.
+ZCZC W02 60 L26 Learn basic of C-language
+ZCZC W02 60 L07 Demo related ( Try C-Lang Demo )
 
 
  
