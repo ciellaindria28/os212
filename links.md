@@ -27,6 +27,11 @@ This link gives example on how to use the command which I found very useful !
 1. [Introduction to Cyber Security](https://www.youtube.com/watch?v=z5nc9MDbvkw)<br>
 I love how this video is so informative and supported with nice graphics
 
-1. [Some Motivation (not OS Related)](https://www.youtube.com/watch?v=8ZhoeSaPF-k)<br>
+2. [Some Motivation (not OS Related)](https://www.youtube.com/watch?v=8ZhoeSaPF-k)<br>
 Spare some time to appreciate yourself for making it through this week ! I hope this video could give you some motivation !
+
+**Week 03**
+1. [C-Language Cheat Sheet](https://www.codewithharry.com/blogpost/c-cheatsheet)<br>
+This cheat sheet is very useful for beginners, it covers materials from basic syntax, data types, iteration, etc
+
 
