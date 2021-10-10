@@ -35,3 +35,7 @@ Spare some time to appreciate yourself for making it through this week ! I hope 
 This cheat sheet is very useful for beginners, it covers materials from basic syntax, data types, iteration, etc
 
 
+**Week 05**
+1. [Page Replacement Algorithms](https://www.youtube.com/watch?v=jeJIKKQcqpU)<br>
+Her channel is super helpful to understand page replacement algorithms. She explains in a simple way which I really like
+
