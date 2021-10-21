@@ -39,3 +39,7 @@ This cheat sheet is very useful for beginners, it covers materials from basic sy
 1. [Page Replacement Algorithms](https://www.youtube.com/watch?v=jeJIKKQcqpU)<br>
 Her channel is super helpful to understand page replacement algorithms. She explains in a simple way which I really like
 
+**Week 06**
+1. [Multiple Processor Systems -Computerphile](https://www.youtube.com/watch?v=3RvkfuXUv1c)<br>
+This video explains multiprocessor systems and discusses why a computer can have multiple cores
+
