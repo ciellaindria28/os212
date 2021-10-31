@@ -12,5 +12,7 @@ ZCZC W04 fael31
 ZCZC W05 figoathallah
 ZCZC W05 haddad9
 ZCZC W05 gbhisma
-
+ZCZC W06 hamonangann
+ZCZC W06 hanifsyuaib
+ZCZC W06 haikalrmn
 
