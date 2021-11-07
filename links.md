@@ -43,3 +43,10 @@ Her channel is super helpful to understand page replacement algorithms. She expl
 1. [Multiple Processor Systems -Computerphile](https://www.youtube.com/watch?v=3RvkfuXUv1c)<br>
 This video explains multiprocessor systems and discusses why a computer can have multiple cores
 
+**Week 07**
+1. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br>
+This video explains about process synchronization, cooperating process, and shared memory systems
+
+2.[Critical Section Problem] (https://www.youtube.com/watch?v=UtEORPakw5Y) <br>
+This video discusses and explains about critical section problem, entry, exit, and remainder sections, and mutual exclusion.
+
