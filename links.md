@@ -1,4 +1,5 @@
 ---
+
 permalink: /LINKS/
 ---
 # Operating Systems 2021-2 (OS212)
@@ -49,4 +50,9 @@ This video explains about process synchronization, cooperating process, and shar
 
 2.[Critical Section Problem] (https://www.youtube.com/watch?v=UtEORPakw5Y) <br>
 This video discusses and explains about critical section problem, entry, exit, and remainder sections, and mutual exclusion.
+
+**Week 08**
+1.[Introduction to CPU Scheduling] (https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk)
+This video discussed basics of CPU Scheduling in Operating System
+
 
