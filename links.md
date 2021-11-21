@@ -56,3 +56,8 @@ This video discusses and explains about critical section problem, entry, exit, a
 This video discussed basics of CPU Scheduling in Operating System
 
 
+**Week 09**
+1.[LFS Forum] (https://www.linuxquestions.org/questions/linux-from-scratch-13/)
+This forum helped me in handling some of my errors that I encountered while doing my assignments
+
+
