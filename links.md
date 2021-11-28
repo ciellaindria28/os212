@@ -39,7 +39,6 @@ This cheat sheet is very useful for beginners, it covers materials from basic sy
 **Week 05**
 1. [Page Replacement Algorithms](https://www.youtube.com/watch?v=jeJIKKQcqpU)<br>
 Her channel is super helpful to understand page replacement algorithms. She explains in a simple way which I really like
-
 **Week 06**
 1. [Multiple Processor Systems -Computerphile](https://www.youtube.com/watch?v=3RvkfuXUv1c)<br>
 This video explains multiprocessor systems and discusses why a computer can have multiple cores
@@ -52,6 +51,7 @@ This video explains about process synchronization, cooperating process, and shar
 This video discusses and explains about critical section problem, entry, exit, and remainder sections, and mutual exclusion.
 
 **Week 08**
+
 1.[Introduction to CPU Scheduling] (https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk)
 This video discussed basics of CPU Scheduling in Operating System
 
@@ -60,4 +60,8 @@ This video discussed basics of CPU Scheduling in Operating System
 1.[LFS Forum] (https://www.linuxquestions.org/questions/linux-from-scratch-13/)
 This forum helped me in handling some of my errors that I encountered while doing my assignments
 
+
+**Week 10**
+1.[LFS Forum] (https://www.linuxquestions.org/questions/linux-from-scratch-13/)
+This forum helped me in handling some of my errors that I encountered while doing my assignments
 
